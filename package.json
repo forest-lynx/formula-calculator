@@ -1,0 +1,17 @@
+{
+  "name": "formula-calculator",
+  "description": "A class for calculating mathematical expressions from a string",
+  "main": "src/FormulaCalculator.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forest-lynx/formula-calculator.git"
+  },
+  "author": "Дмитрий М",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forest-lynx/formula-calculator/issues"
+  },
+  "homepage": "https://github.com/forest-lynx/formula-calculator#readme",
+  "devDependencies": {}
+}
